@@ -1,0 +1,33 @@
+.bulk {
+  margin-top: 4rem;
+}
+.bulk-image {
+  width: 24rem;
+}
+
+.copy {
+  margin-top: 4rem;
+  font-size: 30px;
+  color: #0f4c75;
+}
+.contact {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 50px;
+  font-weight: lighter;
+}
+.planet-image {
+  margin-top: 3rem;
+  width: 82.4rem;
+  height: 20rem;
+}
+.britannica {
+  margin-top: 4rem;
+}
+.addres {
+  font-style: italic;
+  font-size: 30px;
+  font-weight: lighter;
+  color: black;
+  margin-top: 4rem;
+}

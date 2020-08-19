@@ -1,0 +1,291 @@
+.WEATHER-NEWS {
+  margin-top: -13rem;
+  margin-left: 20px;
+}
+.hurricane-image {
+  height: 17rem;
+}
+.news {
+  margin-bottom: 13.7rem;
+  color: white;
+  font-weight: lighter;
+  font-size: 22px;
+}
+.weather-para {
+  margin-left: 35rem;
+  margin-top: -15rem;
+  font-size: 20px;
+  font-weight: lighter;
+  text-decoration: none;
+  color: orangered;
+  display: block;
+}
+
+.hurrine-para {
+  margin-bottom: 1rem;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
+.weather-date {
+  margin-top: 2rem;
+  color: black;
+}
+.hurrine {
+  background: white;
+  height: 17rem;
+  width: 55rem;
+  margin-top: -13.2rem;
+}
+.forest {
+  margin-top: 3rem;
+  margin-left: 20px;
+  background: white;
+  height: 17rem;
+  width: 55rem;
+}
+.forest-image {
+  height: 17rem;
+  width: 33rem;
+}
+.head-forest a {
+  margin-top: -14rem;
+  display: block;
+  margin-left: 35rem;
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: lighter;
+  color: orangered;
+}
+.forest-path {
+  margin-top: 8px;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
+.forest-date {
+  margin-top: 2rem;
+  color: black;
+}
+.severe {
+  margin-top: 3rem;
+  margin-left: 20px;
+  background: white;
+  height: 17rem;
+  width: 55rem;
+}
+.severe-image {
+  height: 17rem;
+  width: 33rem;
+}
+.severe-para {
+  margin-top: -14rem;
+  display: block;
+  margin-left: 35rem;
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: lighter;
+  color: orangered;
+}
+.severe-path {
+  margin-top: 8px;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
+.severe-date {
+  margin-top: 2rem;
+  color: black;
+}
+.atlantic {
+  background: white;
+  margin-top: 40px;
+  width: 20rem;
+  padding: 0px 0px 10px;
+  margin-left: 60rem;
+  margin-top: -44rem;
+}
+.atlantic-image {
+  width: 20rem;
+  height: 17rem;
+}
+.atlantic-para {
+  color: black;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.atlantic-storm {
+  font-weight: lighter;
+  margin-top: 22px;
+}
+.atlantic-readmore {
+  font-weight: lighter;
+  margin-top: 22px;
+  color: orangered;
+}
+
+.table {
+  margin-top: 20rem;
+  font-size: 27px;
+  margin-right: 20rem;
+  justify-content: space-between;
+  text-indent: 4rem;
+
+  width: 100rem;
+  background: white;
+}
+.arrow {
+  width: 1rem;
+  font-weight: bolder;
+  /* opacity: 30%; */
+}
+
+.sample {
+  margin-top: 100rem;
+}
+.bar {
+  color: white;
+}
+.company {
+  display: none;
+}
+.accuwrather {
+  color: white;
+  text-align: center;
+}
+.team {
+  color: white;
+  text-align: center;
+}
+.logoo {
+  margin-left: 30rem;
+}
+/* .logog {
+  margin-left: 27rem;
+} */
+span {
+  color: blue;
+}
+.about {
+  color: #0f4c75;
+}
+.about-para {
+  font-size: 1.2rem;
+}
+.noaa {
+  color: #0f4c75;
+  font-size: 40px;
+  margin-top: 4rem;
+}
+.noaa-para {
+  margin-left: 37rem;
+  margin-top: -13rem;
+  font-size: 27px;
+}
+.noaa-image {
+  width: 30rem;
+}
+.ventusky {
+  color: #0f4c75;
+  font-size: 40px;
+  margin-top: 4rem;
+}
+.ventusky-image {
+  width: 30rem;
+}
+.ventusky-para {
+  margin-left: 37rem;
+  margin-top: -10rem;
+  font-size: 27px;
+}
+.washington-image {
+  width: 20rem;
+  margin-top: 10rem;
+}
+.liberation-image {
+  width: 20rem;
+  margin-left: 8rem;
+}
+.metro-image {
+  margin-left: 8rem;
+}
+.head {
+  background: white;
+}
+.dailymail {
+  margin-left: 8rem;
+}
+.quartz {
+  margin-left: 8rem;
+}
+.address {
+  color: #0f4c75;
+  font-weight: bolder;
+}
+.contactaddress {
+  margin-top: 4rem;
+  font-size: 40px;
+}
+.email {
+  margin-top: 4rem;
+  font-size: 40px;
+}
+.project-image {
+  margin-top: 4rem;
+  width: 50rem;
+}
+.project-para {
+  font-size: 27px;
+  color: white;
+}
+.city-para {
+  margin-left: 4rem;
+}
+.cityy-para {
+  margin-top: 2rem;
+}
+.weather–view {
+  margin-top: 4rem;
+}
+.head {
+  background: white;
+}
+.weather–viewpara {
+  margin-top: 2rem;
+}
+.project–head {
+  background: gray;
+  width: 50rem;
+}
+.project-h1 {
+  margin-bottom: 4rem;
+}
+.experience {
+  margin-top: 4rem;
+}
+.experiencepara {
+  margin-top: 2rem;
+}
+.project-paras {
+  font-size: 27px;
+  color: white;
+}
+.project–heads {
+  background: gray;
+  width: 50rem;
+}
+.spans {
+  color: #0f4c75;
+}
+.covid-image {
+  width: 24rem;
+}
+.covid {
+  margin-top: 4rem;
+}
+.covid-para {
+  margin-left: 25rem;
+  margin-top: -13rem;
+}
